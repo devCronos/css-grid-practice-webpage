@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 notes are in docs folder
 
 
@@ -115,3 +116,8 @@ notes are in docs folder
 }
 ```
 
+=======
+# css-grid-practice-webpage
+Completed grid webpage
+https://devcronos.github.io/css-grid-practice-webpage/
+>>>>>>> 7e86d412e0ca12805613d16ee8f763098c380378
